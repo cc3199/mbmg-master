@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://www.lib.uidaho.edu
+url: 
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /demo
+baseurl: /Information/Collections
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-sa
 
@@ -18,7 +18,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sa
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: CollectionBuilder SA
+title: MBMG Master
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Digital Collection Magic with Static Web Technologies
 # description appears in meta tags and other locations
@@ -29,10 +29,10 @@ keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 # Organization branding
-organization-name: "Digital Initiatives, University of Idaho Library"
-organization-link: https://www.lib.uidaho.edu/digital/
-organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+organization-name: "Montana Bureau of Mines and Geology"
+organization-link: https://www.mbmg.mtech.edu/
+organization-logo-banner: assets\img\MBMG2012LogoTransparent.png
+organization-logo-nav: assets\img\logombmg.png
 
 ##########
 # COLLECTION SETTINGS
