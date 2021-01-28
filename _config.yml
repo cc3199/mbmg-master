@@ -8,9 +8,9 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url:
+url: 
 # path to location on the domain if necessary e.g. /digital/hjccc
-baseurl: /Information/Collections/Furer
+baseurl: /Information/Collections
 # location of code, the full url to your github repository
 source-code: https://github.com/CollectionBuilder/collectionbuilder-sa
 
@@ -18,19 +18,19 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sa
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Lloyd C. Furer Cross Sections
+title: MBMG Master
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: 
+tagline: Digital Collection Magic with Static Web Technologies
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "After 20 years in the oil industry, Lloyd Furer joined Indiana University and, among other research activities, taught surface geology for 10 years at the Indiana field station near Cardwell, Montana. Since retiring, Lloyd has spent decades correlating subsurface formations in the western U.S. based on his knowledge of surface geology and thousands of geophysical logs from Montana, Wyoming, Colorado, and the Dakotas. This collection of over 50 cross sections represents a portion of Lloyd Furer’s correlation work in Montana."
+description: "CollectionBuilder-SA is a template for creating digital collection exhibits using static web technology."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: montana;furer;cross sections;
+keywords: idaho;history;inland northwest
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Montana Bureau of Mines and Geology
+author: CollectionBuilder
 # Organization branding
 organization-name: "Montana Bureau of Mines and Geology"
-organization-link: https://www.mbmg.mtech.edu/main.asp
+organization-link: https://www.mbmg.mtech.edu/
 organization-logo-banner: assets\img\MBMG2012LogoTransparent.png
 organization-logo-nav: assets\img\logombmg.png
 
@@ -41,11 +41,11 @@ organization-logo-nav: assets\img\logombmg.png
 # If using local folder, dir name with proceeding slash. If using external web location, provide full URL
 objects: /objects 
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: furer-metadata
+metadata: demo-metadata
 # page generation settings 
 # "data" value must be the name of the metadata file (other values should be not be changed)
 page_gen:
-  - data: 'furer-metadata'
+  - data: 'demo-metadata'
     template: 'items'
     name: 'objectid'
     dir: 'items'
