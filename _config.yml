@@ -41,11 +41,11 @@ organization-logo-nav: assets\img\logombmg.png
 # If using local folder, dir name with proceeding slash. If using external web location, provide full URL
 objects: /objects 
 # choose metadata: this is the name of the csv file in your _data directory that describes the objects in your collection
-metadata: demo-metadata
+metadata: lcpub-metadata
 # page generation settings 
 # "data" value must be the name of the metadata file (other values should be not be changed)
 page_gen:
-  - data: 'demo-metadata'
+  - data: 'lcpub-metadata'
     template: 'items'
     name: 'objectid'
     dir: 'items'
