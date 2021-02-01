@@ -6,6 +6,21 @@ permalink: /whitecliffs.html
 
 ## White Cliffs of the Missouri
 
-<a href="{{ '/objects/LewisandClark-White Cliffs.pdf' | absolute_url }}" class="col-md-12" target="_blank" data-toggle="tooltip" title="Click Me">
-    <img class="card-image-top img-fluid" src="{{ '/objects/LewisandClark-White Cliffs.pdf' | absolute_url }}">    
-</a>
+<img class="card-image-top img-fluid" src="{{ '/objects/LewisandClark-Whitecliffs_Page_1.jpg' | absolute_url }}">    
+
+<img class="card-image-top img-fluid" src="{{ '/objects/LewisandClark-Whitecliffs_Page_2.jpg' | absolute_url }}">    
+
+<img class="card-image-top img-fluid" src="{{ '/objects/LewisandClark-Whitecliffs_Page_3.jpg' | absolute_url }}">    
+
+<img class="card-image-top img-fluid" src="{{ '/objects/LewisandClark-Whitecliffs_Page_4.jpg' | absolute_url }}">    
+
+
+<h2>Related Items<h2>
+
+<div class="container">
+<div class="card-columns">
+    <div class="card">
+    <a href="{{ '/items/MC_21B.html' | absolute_url }}" style="width: 18rem;">
+        <img class="card-img-top img-fluid" src="{{ '/objects/MC_21B.jpg' | absolute_url }}">
+    </a>
+ 
