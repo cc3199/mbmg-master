@@ -21,6 +21,6 @@ permalink: /whitecliffs.html
 <div class="card-columns">
     <div class="card">
     <a href="{{ '/items/MC_21B.html' | absolute_url }}" style="width: 18rem;">
-        <img class="card-img-top img-fluid" src="{{ '/objects/MC_21B.jpg' | absolute_url }}">
+        <img class="card-img-top img-fluid" src="{{ '/objects/mc21b_WhiteCliffs.jpg' | absolute_url }}">
     </a>
  
