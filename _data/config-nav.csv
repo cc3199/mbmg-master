@@ -1,7 +1,17 @@
 display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
-White Cliffs,/whitecliffs.html,
-Locations,/locations.html,
 Map,/map.html,
-About,/about.html,
+Lewis and Clark,,,
+Intro,/intro.html,Lewis and Clark
+Navigation,/navigation.html,Lewis and Clark
+Equipment,/equipment.html,Lewis and Clark
+Culbertson,/culbertson.html,Lewis and Clark
+White Cliffs,/whitecliffs.html,Lewis and Clark
+Great Falls,/greatfalls.html,Lewis and Clark
+Gates of the Mountains,/gates.html,Lewis and Clark
+Three Forks,/threeforks.html,Lewis and Clark
+Beaverhead Rock,/beaverhead.html,Lewis and Clark
+Pompey's Pillar,/pompey.html,Lewis and Clark
+Terry,/terry.html,Lewis and Clark
+Locations,/locations.html,
