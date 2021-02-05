@@ -45,7 +45,7 @@ metadata: demo-metadata
 # page generation settings 
 # "data" value must be the name of the metadata file (other values should be not be changed)
 page_gen:
-  - data: 'demo-metadata'
+  - data: 'lcpub-metadata'
     template: 'items'
     name: 'objectid'
     dir: 'items'
