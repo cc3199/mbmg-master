@@ -6,13 +6,13 @@ permalink: /culbertson.html
 
 ## Culbertson -- Entering Montana
 
-<img class="card-image-top img-fluid" src="{{ '/objects/LewisandClark-Culbertson_Page_1.jpg' | absolute_url }}">    
+<img class="card-image-top img-fluid" src="{{ '/objects/LewisAndClark-Culbertson_Page_1.jpg' | absolute_url }}">    
 
-<img class="card-image-top img-fluid" src="{{ '/objects/LewisandClark-Culbertson_Page_2.jpg' | absolute_url }}">    
+<img class="card-image-top img-fluid" src="{{ '/objects/LewisAndClark-Culbertson_Page_2.jpg' | absolute_url }}">    
 
-<img class="card-image-top img-fluid" src="{{ '/objects/LewisandClark-Culbertson_Page_3.jpg' | absolute_url }}">    
+<img class="card-image-top img-fluid" src="{{ '/objects/LewisAndClark-Culbertson_Page_3.jpg' | absolute_url }}">    
 
-<img class="card-image-top img-fluid" src="{{ '/objects/LewisandClark-Culbertson_Page_4.jpg' | absolute_url }}">  
+<img class="card-image-top img-fluid" src="{{ '/objects/LewisAndClark-Culbertson_Page_4.jpg' | absolute_url }}">  
 
 
 <h2>Related Items<h2>

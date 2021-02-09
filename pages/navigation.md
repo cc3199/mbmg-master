@@ -6,13 +6,13 @@ permalink: /navigation.html
 
 ## Navigation -- Finding the Latitude
 
-<img class="card-image-top img-fluid" src="{{ '/objects/LewisandClark-Navigation_Page_1.jpg' | absolute_url }}">    
+<img class="card-image-top img-fluid" src="{{ '/objects/LewisAndClark-Navigation_Page_1.jpg' | absolute_url }}">    
 
-<img class="card-image-top img-fluid" src="{{ '/objects/LewisandClark-Navigation_Page_2.jpg' | absolute_url }}">    
+<img class="card-image-top img-fluid" src="{{ '/objects/LewisAndClark-Navigation_Page_2.jpg' | absolute_url }}">    
 
-<img class="card-image-top img-fluid" src="{{ '/objects/LewisandClark-Navigation_Page_3.jpg' | absolute_url }}">    
+<img class="card-image-top img-fluid" src="{{ '/objects/LewisAndClark-Navigation_Page_3.jpg' | absolute_url }}">    
 
-<img class="card-image-top img-fluid" src="{{ '/objects/LewisandClark-Navigation_Page_4.jpg' | absolute_url }}">   
+<img class="card-image-top img-fluid" src="{{ '/objects/LewisAndClark-Navigation_Page_4.jpg' | absolute_url }}">   
 
 
 <h2>Related Items<h2>
