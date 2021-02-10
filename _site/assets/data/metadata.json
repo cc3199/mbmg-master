@@ -15,11 +15,11 @@
         
         
         "object_thumb": "/objects/thumbs/lewisandclark_th.jpg",
-        "object_download": "/objects/LewisAndClark.pdf",
-        "reference_url": "/items/LewisAndClark.html"
+        "object_download": "/objects/lewisandclark.pdf",
+        "reference_url": "/items/lewisandclark.html"
     },
     { 
-        "title": "Lewis and Clark in Montana - Navigation, Finding the Latitude",
+        "title": "Lewis and Clark in Montana - navigation, Finding the Latitude",
         "creator": "Bob Bergantino; Ginette Abdo",
         
         
@@ -35,8 +35,8 @@
         
         
         "object_thumb": "/objects/thumbs/lewisandclark-navigation_th.jpg",
-        "object_download": "/objects/LewisAndClark-Navigation.pdf",
-        "reference_url": "/items/LewisAndClark-Navigation.html"
+        "object_download": "/objects/lewisandclark-navigation.pdf",
+        "reference_url": "/items/lewisandclark-navigation.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Expedition's Scientific Equipment",
@@ -55,8 +55,8 @@
         
         
         "object_thumb": "/objects/thumbs/lewisandclark-equipment_th.jpg",
-        "object_download": "/objects/LewisAndClark-Equipment.pdf",
-        "reference_url": "/items/LewisAndClark-Equipment.html"
+        "object_download": "/objects/lewisandclark-equipment.pdf",
+        "reference_url": "/items/lewisandclark-equipment.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Culbertson Entering Montana",
@@ -75,8 +75,8 @@
         
         
         "object_thumb": "/objects/thumbs/lewisandclark-culbertson_th.jpg",
-        "object_download": "/objects/LewisAndClark-Culbertson.pdf",
-        "reference_url": "/items/LewisAndClark-Culbertson.html"
+        "object_download": "/objects/lewisandclark-culbertson.pdf",
+        "reference_url": "/items/lewisandclark-culbertson.html"
     },
     { 
         "title": "Lewis and Clark in Montana - The White Cliffs of the Missouri",
@@ -95,8 +95,8 @@
         
         
         "object_thumb": "/objects/thumbs/lewisandclark-whitecliffs_th.jpg",
-        "object_download": "/objects/LewisAndClark-Whitecliffs.pdf",
-        "reference_url": "/items/LewisAndClark-Whitecliffs.html"
+        "object_download": "/objects/lewisandclark-whitecliffs.pdf",
+        "reference_url": "/items/lewisandclark-whitecliffs.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Great Falls of the Missouri",
@@ -115,8 +115,8 @@
         
         
         "object_thumb": "/objects/thumbs/lewisandclark-greatfalls_th.jpg",
-        "object_download": "/objects/LewisAndClark-Greatfalls.pdf",
-        "reference_url": "/items/LewisAndClark-Greatfalls.html"
+        "object_download": "/objects/lewisandclark-greatfalls.pdf",
+        "reference_url": "/items/lewisandclark-greatfalls.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Gates of the Mountains",
@@ -135,8 +135,8 @@
         
         
         "object_thumb": "/objects/thumbs/lewisandclark-gates_th.jpg",
-        "object_download": "/objects/LewisAndClark-Gates.pdf",
-        "reference_url": "/items/LewisAndClark-Gates.html"
+        "object_download": "/objects/lewisandclark-gates.pdf",
+        "reference_url": "/items/lewisandclark-gates.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Three Forks of the Missouri",
@@ -155,8 +155,8 @@
         
         
         "object_thumb": "/objects/thumbs/lewisandclark-threeforks_th.jpg",
-        "object_download": "/objects/LewisAndClark-Threeforks.pdf",
-        "reference_url": "/items/LewisAndClark-Threeforks.html"
+        "object_download": "/objects/lewisandclark-threeforks.pdf",
+        "reference_url": "/items/lewisandclark-threeforks.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Beaverhead Rock",
@@ -175,8 +175,8 @@
         
         
         "object_thumb": "/objects/thumbs/lewisandclark-beaverhead_th.jpg",
-        "object_download": "/objects/LewisAndClark-Beaverhead.pdf",
-        "reference_url": "/items/LewisAndClark-Beaverhead.html"
+        "object_download": "/objects/lewisandclark-beaverhead.pdf",
+        "reference_url": "/items/lewisandclark-beaverhead.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Pompey's Pillar",
@@ -195,8 +195,8 @@
         
         
         "object_thumb": "/objects/thumbs/lewisandclark-pompey_th.jpg",
-        "object_download": "/objects/LewisAndClark-Pompey",
-        "reference_url": "/items/LewisAndClark-Pompey.html"
+        "object_download": "/objects/lewisandclark-pompey",
+        "reference_url": "/items/lewisandclark-pompey.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Powder River and the Terry Badlands",
@@ -215,8 +215,8 @@
         
         
         "object_thumb": "/objects/thumbs/lewisandclark-terry_th.jpg",
-        "object_download": "/objects/LewisAndClark-Terry.pdf",
-        "reference_url": "/items/LewisAndClark-Terry.html"
+        "object_download": "/objects/lewisandclark-terry.pdf",
+        "reference_url": "/items/lewisandclark-terry.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Culbertson Entering Montana - Poster",
@@ -235,8 +235,8 @@
         
         
         "object_thumb": "/objects/thumbs/mc21a_culbertson_th.jpg",
-        "object_download": "/objects/mc21a_Culbertson.jpg",
-        "reference_url": "/items/mc21a_Culbertson.html"
+        "object_download": "/objects/mc21a_culbertson.jpg",
+        "reference_url": "/items/mc21a_culbertson.html"
     },
     { 
         "title": "Lewis and Clark in Montana: The White Cliffs of the Missouri - Poster",
@@ -255,8 +255,8 @@
         
         
         "object_thumb": "/objects/thumbs/mc21b_whitecliffs_th.jpg",
-        "object_download": "/objects/mc21b_WhiteCliffs.jpg",
-        "reference_url": "/items/mc21b_WhiteCliffs.html"
+        "object_download": "/objects/mc21b_whitecliffs.jpg",
+        "reference_url": "/items/mc21b_whitecliffs.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Great Falls of the Missouri - Poster",
@@ -275,8 +275,8 @@
         
         
         "object_thumb": "/objects/thumbs/mc21c_greatfalls_th.jpg",
-        "object_download": "/objects/mc21c_GreatFalls.jpg",
-        "reference_url": "/items/mc21c_GreatFalls.html"
+        "object_download": "/objects/mc21c_greatfalls.jpg",
+        "reference_url": "/items/mc21c_greatfalls.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Gates of the Mountains - Poster",
@@ -295,8 +295,8 @@
         
         
         "object_thumb": "/objects/thumbs/mc21d_gatesofmtns_th.jpg",
-        "object_download": "/objects/mc21d_GatesofMtns.jpg",
-        "reference_url": "/items/mc21d_GatesofMtns.html"
+        "object_download": "/objects/mc21d_gatesofmtns.jpg",
+        "reference_url": "/items/mc21d_gatesofmtns.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Three Forks of the Missouri - Poster",
@@ -315,8 +315,8 @@
         
         
         "object_thumb": "/objects/thumbs/mc21e_threeforks_th.jpg",
-        "object_download": "/objects/mc21e_ThreeForks.jpg",
-        "reference_url": "/items/mc21e_ThreeForks.html"
+        "object_download": "/objects/mc21e_threeforks.jpg",
+        "reference_url": "/items/mc21e_threeforks.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Beaverhead Rock - Poster",
@@ -334,9 +334,9 @@
         "language": "english",
         
         
-        "object_thumb": "/objects/thumbs/mc21f_beaverheadrock_th.jpg",
-        "object_download": "/objects/mc21f_Beaverheadrock.jpg",
-        "reference_url": "/items/mc21f_Beaverheadrock.html"
+        "object_thumb": "/objects/thumbs/mc21f_beaverhead_th.jpg",
+        "object_download": "/objects/mc21f_beaverhead.jpg",
+        "reference_url": "/items/mc21f_beaverhead.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Pompey's Pillar - Poster",
@@ -355,8 +355,8 @@
         
         
         "object_thumb": "/objects/thumbs/mc21g_pompeyspillar_th.jpg",
-        "object_download": "/objects/mc21g_PompeysPillar.jpg",
-        "reference_url": "/items/mc21g_PompeysPillar.html"
+        "object_download": "/objects/mc21g_pompeyspillar.jpg",
+        "reference_url": "/items/mc21g_pompeyspillar.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Powder River and the Terry Badlands - Poster",
@@ -375,8 +375,8 @@
         
         
         "object_thumb": "/objects/thumbs/mc21h_terry_th.jpg",
-        "object_download": "/objects/mc21h_Terry.jpg",
-        "reference_url": "/items/mc21h_Terry.html"
+        "object_download": "/objects/mc21h_terry.jpg",
+        "reference_url": "/items/mc21h_terry.html"
     },
     { 
         "title": "Lewis and Clark in Montana- Scientific Equipment of the Expedition - Poster",
@@ -395,8 +395,8 @@
         
         
         "object_thumb": "/objects/thumbs/mc21i_equip_of_lc_th.jpg",
-        "object_download": "/objects/mc21i_equip_of_LC.jpg",
-        "reference_url": "/items/mc21i_equip_of_LC.html"
+        "object_download": "/objects/mc21i_equip_of_lc.jpg",
+        "reference_url": "/items/mc21i_equip_of_lc.html"
     },
     { 
         "title": "Lewis and Clark in Montana - Finding the Latitude - Poster",
@@ -435,8 +435,8 @@
         
         
         "object_thumb": "/objects/thumbs/lewisandclark_intro_th.jpg",
-        "object_download": "/objects/LewisAndClark_intro.jpg",
-        "reference_url": "/items/LewisAndClark_intro.html"
+        "object_download": "/objects/lewisandclark_intro.jpg",
+        "reference_url": "/items/lewisandclark_intro.html"
     },
     { 
         "title": "A Record of their observations",
@@ -455,8 +455,8 @@
         
         
         "object_thumb": "/objects/thumbs/lewisandclark-records_th.jpg",
-        "object_download": "/objects/LewisAndClark-records.jpg",
-        "reference_url": "/items/LewisAndClark-records.html"
+        "object_download": "/objects/lewisandclark-records.jpg",
+        "reference_url": "/items/lewisandclark-records.html"
     },
     { 
         "title": "Taking a Noon Observation with the Octant and Artificial Horizon by the Back Method.",

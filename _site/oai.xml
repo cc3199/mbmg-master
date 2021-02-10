@@ -24,7 +24,7 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/LewisAndClark</oai:identifier> 
+                <oai:identifier>oai::/lewisandclark</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -40,15 +40,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>LewisAndClark</dc:identifier>
-                    <dc:identifier>/items/LewisAndClark.html</dc:identifier>
+                    <dc:identifier>lewisandclark</dc:identifier>
+                    <dc:identifier>/items/lewisandclark.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/LewisAndClark-Navigation</oai:identifier> 
+                <oai:identifier>oai::/lewisandclark-navigation</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -58,21 +58,21 @@
                 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
                 xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
                                     http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
-                    <dc:title>Lewis and Clark in Montana - Navigation, Finding the Latitude</dc:title>
+                    <dc:title>Lewis and Clark in Montana - navigation, Finding the Latitude</dc:title>
                     <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
                     <dc:date></dc:date><dc:description></dc:description>
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>LewisAndClark-Navigation</dc:identifier>
-                    <dc:identifier>/items/LewisAndClark-Navigation.html</dc:identifier>
+                    <dc:identifier>lewisandclark-navigation</dc:identifier>
+                    <dc:identifier>/items/lewisandclark-navigation.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/LewisAndClark-Equipment</oai:identifier> 
+                <oai:identifier>oai::/lewisandclark-equipment</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -88,15 +88,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>LewisAndClark-Equipment</dc:identifier>
-                    <dc:identifier>/items/LewisAndClark-Equipment.html</dc:identifier>
+                    <dc:identifier>lewisandclark-equipment</dc:identifier>
+                    <dc:identifier>/items/lewisandclark-equipment.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/LewisAndClark-Culbertson</oai:identifier> 
+                <oai:identifier>oai::/lewisandclark-culbertson</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -112,15 +112,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>LewisAndClark-Culbertson</dc:identifier>
-                    <dc:identifier>/items/LewisAndClark-Culbertson.html</dc:identifier>
+                    <dc:identifier>lewisandclark-culbertson</dc:identifier>
+                    <dc:identifier>/items/lewisandclark-culbertson.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/LewisAndClark-Whitecliffs</oai:identifier> 
+                <oai:identifier>oai::/lewisandclark-whitecliffs</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -136,15 +136,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>LewisAndClark-Whitecliffs</dc:identifier>
-                    <dc:identifier>/items/LewisAndClark-Whitecliffs.html</dc:identifier>
+                    <dc:identifier>lewisandclark-whitecliffs</dc:identifier>
+                    <dc:identifier>/items/lewisandclark-whitecliffs.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/LewisAndClark-Greatfalls</oai:identifier> 
+                <oai:identifier>oai::/lewisandclark-greatfalls</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -160,15 +160,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>LewisAndClark-Greatfalls</dc:identifier>
-                    <dc:identifier>/items/LewisAndClark-Greatfalls.html</dc:identifier>
+                    <dc:identifier>lewisandclark-greatfalls</dc:identifier>
+                    <dc:identifier>/items/lewisandclark-greatfalls.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/LewisAndClark-Gates</oai:identifier> 
+                <oai:identifier>oai::/lewisandclark-gates</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -184,15 +184,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>LewisAndClark-Gates</dc:identifier>
-                    <dc:identifier>/items/LewisAndClark-Gates.html</dc:identifier>
+                    <dc:identifier>lewisandclark-gates</dc:identifier>
+                    <dc:identifier>/items/lewisandclark-gates.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/LewisAndClark-Threeforks</oai:identifier> 
+                <oai:identifier>oai::/lewisandclark-threeforks</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -208,15 +208,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>LewisAndClark-Threeforks</dc:identifier>
-                    <dc:identifier>/items/LewisAndClark-Threeforks.html</dc:identifier>
+                    <dc:identifier>lewisandclark-threeforks</dc:identifier>
+                    <dc:identifier>/items/lewisandclark-threeforks.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/LewisAndClark-Beaverhead</oai:identifier> 
+                <oai:identifier>oai::/lewisandclark-beaverhead</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -232,15 +232,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>LewisAndClark-Beaverhead</dc:identifier>
-                    <dc:identifier>/items/LewisAndClark-Beaverhead.html</dc:identifier>
+                    <dc:identifier>lewisandclark-beaverhead</dc:identifier>
+                    <dc:identifier>/items/lewisandclark-beaverhead.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/LewisAndClark-Pompey</oai:identifier> 
+                <oai:identifier>oai::/lewisandclark-pompey</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -256,15 +256,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>LewisAndClark-Pompey</dc:identifier>
-                    <dc:identifier>/items/LewisAndClark-Pompey.html</dc:identifier>
+                    <dc:identifier>lewisandclark-pompey</dc:identifier>
+                    <dc:identifier>/items/lewisandclark-pompey.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/LewisAndClark-Terry</oai:identifier> 
+                <oai:identifier>oai::/lewisandclark-terry</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -280,15 +280,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>LewisAndClark-Terry</dc:identifier>
-                    <dc:identifier>/items/LewisAndClark-Terry.html</dc:identifier>
+                    <dc:identifier>lewisandclark-terry</dc:identifier>
+                    <dc:identifier>/items/lewisandclark-terry.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/mc21a_Culbertson</oai:identifier> 
+                <oai:identifier>oai::/mc21a_culbertson</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -304,15 +304,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>mc21a_Culbertson</dc:identifier>
-                    <dc:identifier>/items/mc21a_Culbertson.html</dc:identifier>
+                    <dc:identifier>mc21a_culbertson</dc:identifier>
+                    <dc:identifier>/items/mc21a_culbertson.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/mc21b_WhiteCliffs</oai:identifier> 
+                <oai:identifier>oai::/mc21b_whitecliffs</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -328,15 +328,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>mc21b_WhiteCliffs</dc:identifier>
-                    <dc:identifier>/items/mc21b_WhiteCliffs.html</dc:identifier>
+                    <dc:identifier>mc21b_whitecliffs</dc:identifier>
+                    <dc:identifier>/items/mc21b_whitecliffs.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/mc21c_GreatFalls</oai:identifier> 
+                <oai:identifier>oai::/mc21c_greatfalls</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -352,15 +352,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>mc21c_GreatFalls</dc:identifier>
-                    <dc:identifier>/items/mc21c_GreatFalls.html</dc:identifier>
+                    <dc:identifier>mc21c_greatfalls</dc:identifier>
+                    <dc:identifier>/items/mc21c_greatfalls.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/mc21d_GatesofMtns</oai:identifier> 
+                <oai:identifier>oai::/mc21d_gatesofmtns</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -376,15 +376,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>mc21d_GatesofMtns</dc:identifier>
-                    <dc:identifier>/items/mc21d_GatesofMtns.html</dc:identifier>
+                    <dc:identifier>mc21d_gatesofmtns</dc:identifier>
+                    <dc:identifier>/items/mc21d_gatesofmtns.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/mc21e_ThreeForks</oai:identifier> 
+                <oai:identifier>oai::/mc21e_threeforks</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -400,15 +400,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>mc21e_ThreeForks</dc:identifier>
-                    <dc:identifier>/items/mc21e_ThreeForks.html</dc:identifier>
+                    <dc:identifier>mc21e_threeforks</dc:identifier>
+                    <dc:identifier>/items/mc21e_threeforks.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/mc21f_Beaverheadrock</oai:identifier> 
+                <oai:identifier>oai::/mc21f_beaverhead</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -424,15 +424,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>mc21f_Beaverheadrock</dc:identifier>
-                    <dc:identifier>/items/mc21f_Beaverheadrock.html</dc:identifier>
+                    <dc:identifier>mc21f_beaverhead</dc:identifier>
+                    <dc:identifier>/items/mc21f_beaverhead.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/mc21g_PompeysPillar</oai:identifier> 
+                <oai:identifier>oai::/mc21g_pompeyspillar</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -448,15 +448,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>mc21g_PompeysPillar</dc:identifier>
-                    <dc:identifier>/items/mc21g_PompeysPillar.html</dc:identifier>
+                    <dc:identifier>mc21g_pompeyspillar</dc:identifier>
+                    <dc:identifier>/items/mc21g_pompeyspillar.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/mc21h_Terry</oai:identifier> 
+                <oai:identifier>oai::/mc21h_terry</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -472,15 +472,15 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>mc21h_Terry</dc:identifier>
-                    <dc:identifier>/items/mc21h_Terry.html</dc:identifier>
+                    <dc:identifier>mc21h_terry</dc:identifier>
+                    <dc:identifier>/items/mc21h_terry.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/mc21i_equip_of_LC</oai:identifier> 
+                <oai:identifier>oai::/mc21i_equip_of_lc</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -496,8 +496,8 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>mc21i_equip_of_LC</dc:identifier>
-                    <dc:identifier>/items/mc21i_equip_of_LC.html</dc:identifier>
+                    <dc:identifier>mc21i_equip_of_lc</dc:identifier>
+                    <dc:identifier>/items/mc21i_equip_of_lc.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
@@ -528,7 +528,7 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/LewisAndClark_intro</oai:identifier> 
+                <oai:identifier>oai::/lewisandclark_intro</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -544,15 +544,15 @@
                     <dc:subject>geology</dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>LewisAndClark_intro</dc:identifier>
-                    <dc:identifier>/items/LewisAndClark_intro.html</dc:identifier>
+                    <dc:identifier>lewisandclark_intro</dc:identifier>
+                    <dc:identifier>/items/lewisandclark_intro.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/LewisAndClark-records</oai:identifier> 
+                <oai:identifier>oai::/lewisandclark-records</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -568,8 +568,8 @@
                     <dc:subject>journals; geology</dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>LewisAndClark-records</dc:identifier>
-                    <dc:identifier>/items/LewisAndClark-records.html</dc:identifier>
+                    <dc:identifier>lewisandclark-records</dc:identifier>
+                    <dc:identifier>/items/lewisandclark-records.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
