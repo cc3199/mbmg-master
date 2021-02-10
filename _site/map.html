@@ -1,0 +1,368 @@
+<!doctype html>
+<html lang="en">
+  <head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>Map | Lewis and Clark in Montana</title>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+<!--
+
+  _____     ____        __  _           ___       _ __   __       
+ / ___/__  / / /__ ____/ /_(_)__  ___  / _ )__ __(_) /__/ /__ ____
+/ /__/ _ \/ / / -_) __/ __/ / _ \/ _ \/ _  / // / / / _  / -_) __/
+\___/\___/_/_/\__/\__/\__/_/\___/_//_/____/\_,_/_/_/\_,_/\__/_/   
+                                                                
+    built with CollectionBuilder-SA https://github.com/CollectionBuilder/collectionbuilder-sa
+-->
+<meta name="generator" content="collectionbuilder-sa" />
+<meta http-equiv="Content-Language" content="en-us" >
+<link rel="stylesheet" href="/assets/lib/bootstrap.min.css" type="text/css">
+<link rel="stylesheet" href="/assets/lib/leaflet/leaflet.css">
+<link rel="stylesheet" href="/assets/lib/leaflet/leaflet.fusesearch.css">
+<link rel="stylesheet" href="/assets/lib/leaflet/MarkerCluster.css">
+<link rel="stylesheet" href="/assets/lib/leaflet/MarkerCluster.Default.css"><link rel="stylesheet" href="/assets/css/custom.css" type="text/css">
+
+<!-- Last build date: 2021-02-10 -->
+  </head>
+  <body>
+    <div id="skip-to-content"><a href="#maincontent">Skip to main content</a></div>
+    <div class="container">
+    <div class="row align-items-center">
+        <div id="title" class="col-md-9">
+            <h1><a class="text-dark font-weight-normal" href="/" >Lewis and Clark in Montana</a></h1>	 
+            <p>A Geologic Perspective</p>
+        </div>
+        <div class="col-md-3 d-none d-lg-block text-right">
+            <a class="btn btn-outline-light" href="https://www.mbmg.mtech.edu/" target="_blank" rel="noopener">
+                <img class="img-fluid" src="/assets%5Cimg%5CMBMG2012LogoTransparent.png" title="Montana Bureau of Mines and Geology" alt="Montana Bureau of Mines and Geology home" >
+            </a>
+        </div>
+    </div>
+</div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#page-nav" aria-controls="page-nav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <span class="d-lg-none text-right">
+            <a href="https://www.mbmg.mtech.edu/" target="_blank" rel="noopener">
+                <img class="img-fluid" id="mobile-nav-image" src="/assets%5Cimg%5Clogombmg.png" title="Montana Bureau of Mines and Geology" alt="Montana Bureau of Mines and Geology home" >
+            </a>
+        </span>
+
+        <div class="collapse navbar-collapse" id="page-nav">
+            <ul class="navbar-nav mr-auto">
+                
+                <li class="nav-item ">
+                    <a class="nav-link " href="/">Home</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link " href="/browse.html">Browse</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link " href="/subjects.html">Subjects</a>
+                </li>
+                
+                <li class="nav-item ">
+                    <a class="nav-link " href="/locations.html">Locations</a>
+                </li>
+                
+                <li class="nav-item active">
+                    <a class="nav-link " href="/map.html">Map</a>
+                </li></ul>
+            <script>
+    function site_search() {
+        var query = document.getElementById("site-search").value;
+        window.open("/search/index.html?q=" + encodeURIComponent(query), "_self" );
+    }
+</script>
+<form class="form-inline my-2 my-lg-0" role="search" id="search" onsubmit="site_search(); return false;">
+    <div class="input-group">
+        <input id="site-search" class="form-control " type="text" placeholder="Search" aria-label="Search box">
+        <div class="input-group-append">
+            <button class="btn btn-light" type="submit">
+                <span id="search-icon"><svg viewBox="0 0 1024 974" height="16px" width="20px"><path d="M960 832L710.875 582.875C746.438 524.812 768 457.156 768 384 768 171.96900000000005 596 0 384 0 171.969 0 0 171.96900000000005 0 384c0 212 171.969 384 384 384 73.156 0 140.812-21.562 198.875-57L832 960c17.5 17.5 46.5 17.375 64 0l64-64C977.5 878.5 977.5 849.5 960 832zM384 640c-141.375 0-256-114.625-256-256s114.625-256 256-256 256 114.625 256 256S525.375 640 384 640z"/></svg></span>
+                <span class="sr-only">Search Objects</span>
+            </button>
+        </div>
+    </div>
+</form>
+        </div>
+    </div>
+    <a class="btn btn-primary" href="https://www.mbmg.mtech.edu/MontanaGeology/DataPreservation/Collection.asp" role="button">Back to Collections</a>    
+</nav>
+
+    <main id="maincontent" role="main">
+      <div id="map"></div>
+
+    </main>
+    <footer class="bg-dark pt-4 container-fluid ">
+
+    <div class="row border-bottom border-white pb-4 mb-2">
+
+        <div class="col-md-7  px-4 mt-2">
+
+            <h4><a href="/" class="text-white font-weight-normal">Lewis and Clark in Montana</a></h4>
+            <p class="text-white"><small>The science of Geology was in its infancy at the time of the Lewis and Clark Expedition. Neither Lewis nor Clark had any training in geology, mining, or mineralogy. The geologic terms they used, however, reveal much about their understanding (and misunderstanding) of geology. Their journal entries name several rock types: chalk, flint, flintstone, freestone, granite, lava, limestone, marble, marl, pumicestone, sandstone, sandrock, slate, slate stone, and slate rock. Generally, the captains identified these rock types correctly – but not always. The captains were acquainted with names of many minerals, nevertheless most of the minerals and salts that they described were identified incorrectly.Little information has reached the public detailing the geography, geology, minerals or fossils that Lewis and Clark described in their journals. These pages depict and explain some of the more important geological observations and navigational aspects that the expedition recorded while within the present state of Montana.</small></p>
+            <nav>
+                <ul class="nav nav-pills ">
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/">Home</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/browse.html">Browse</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/subjects.html">Subjects</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light" href="/locations.html">Locations</a>
+                    </li>
+                    <li class="nav-item">
+                    
+                        <a class="nav-link text-light active" href="/map.html">Map</a>
+                    </li></ul>
+            </nav>
+
+        </div>
+
+        <div class="col-md-5 mt-2 text-right">
+
+            <p class="text-right">
+                <a href="https://www.mbmg.mtech.edu/" target="_blank" rel="noopener">
+                    <img class="img-fluid" src="/assets%5Cimg%5Clogombmg.png" alt="Montana Bureau of Mines and Geology home">
+                </a>
+            </p>
+            <p class="text-white" id="footer-credits">
+                <small><em>built with</em>
+                    <a href="https://collectionbuilder.github.io/" target="_blank" rel="noopener" title="CollectionBuilder">
+                        <img src="/assets/img/collectionbuilder-logo.png" class="img-fluid" alt="CollectionBuilder home" >
+                    </a>
+                </small>
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="col-md-12 text-center pt-3 pb-1">
+        <p class="text-white">Last updated 2021</p>
+    </div>
+
+</footer>
+    <!-- Optional JS for Bootstrap: jQuery first, then Bootstrap bundle JS -->
+<script src="/assets/lib/jquery-3.5.1.min.js"></script>
+<script src="/assets/lib/bootstrap.bundle.min.js"></script>
+<!-- load other js -->
+<script src="/assets/lib/lazysizes.min.js" async></script>
+
+
+
+
+
+
+<!-- load leaflet dependencies -->
+<script src="/assets/lib/leaflet/leaflet.js"></script>
+<script src="/assets/lib/leaflet/fuse.min.js"></script>
+<script src="/assets/lib/leaflet/leaflet.fusesearch.js"></script>
+<script src="/assets/lib/leaflet/leaflet.markercluster.js"></script>
+<script src="/assets/lib/leaflet/leaflet.markercluster.freezable.js"></script>
+
+<script>
+(function(){
+    /* add collection map data */
+    var geodata = { "type": "FeatureCollection", "features": [ 
+    
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-104.517996,48.146761] }, "properties":
+    { "title": "Lewis and Clark in Montana - Culbertson Entering Montana", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "Culbertson","filename":"/objects/thumbs/lewisandclark-culbertson_th.jpg", "format": "application/pdf", "id": "LewisAndClark-Culbertson" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-110.172981,48.040018] }, "properties":
+    { "title": "Lewis and Clark in Montana - The White Cliffs of the Missouri", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "White Cliffs","filename":"/objects/thumbs/lewisandclark-whitecliffs_th.jpg", "format": "application/pdf", "id": "LewisAndClark-Whitecliffs" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-111.187566,47.540764] }, "properties":
+    { "title": "Lewis and Clark in Montana - Great Falls of the Missouri", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "Great Falls","filename":"/objects/thumbs/lewisandclark-greatfalls_th.jpg", "format": "application/pdf", "id": "LewisAndClark-Greatfalls" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-111.91397,46.877271] }, "properties":
+    { "title": "Lewis and Clark in Montana - Gates of the Mountains", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "Gates of the Mountains","filename":"/objects/thumbs/lewisandclark-gates_th.jpg", "format": "application/pdf", "id": "LewisAndClark-Gates" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-111.5517,45.8914] }, "properties":
+    { "title": "Lewis and Clark in Montana - Three Forks of the Missouri", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "Three Forks","filename":"/objects/thumbs/lewisandclark-threeforks_th.jpg", "format": "application/pdf", "id": "LewisAndClark-Threeforks" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-112.46059,45.385136] }, "properties":
+    { "title": "Lewis and Clark in Montana - Beaverhead Rock", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "Beaverhead Rock","filename":"/objects/thumbs/lewisandclark-beaverhead_th.jpg", "format": "application/pdf", "id": "LewisAndClark-Beaverhead" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-107.9527,45.9913] }, "properties":
+    { "title": "Lewis and Clark in Montana - Pompey&#39;s Pillar", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "Pompey&#39;s Pillar","filename":"/objects/thumbs/lewisandclark-pompey_th.jpg", "format": "application/pdf", "id": "LewisAndClark-Pompey" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-105.366913,46.813166] }, "properties":
+    { "title": "Lewis and Clark in Montana - Powder River and the Terry Badlands", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "Powder River; Terry Badlands","filename":"/objects/thumbs/lewisandclark-terry_th.jpg", "format": "application/pdf", "id": "LewisAndClark-Terry" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-104.517996,48.146761] }, "properties":
+    { "title": "Lewis and Clark in Montana - Culbertson Entering Montana - Poster", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "Culbertson","filename":"/objects/thumbs/mc21a_culbertson_th.jpg", "format": "image/jpeg", "id": "mc21a_Culbertson" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-110.172981,48.040018] }, "properties":
+    { "title": "Lewis and Clark in Montana: The White Cliffs of the Missouri - Poster", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "White Cliffs","filename":"/objects/thumbs/mc21b_whitecliffs_th.jpg", "format": "image/jpeg", "id": "mc21b_WhiteCliffs" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-111.187566,47.540764] }, "properties":
+    { "title": "Lewis and Clark in Montana - Great Falls of the Missouri - Poster", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "Great Falls","filename":"/objects/thumbs/mc21c_greatfalls_th.jpg", "format": "image/jpeg", "id": "mc21c_GreatFalls" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-111.91397,46.877271] }, "properties":
+    { "title": "Lewis and Clark in Montana - Gates of the Mountains - Poster", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "Gates of the Mountains","filename":"/objects/thumbs/mc21d_gatesofmtns_th.jpg", "format": "image/jpeg", "id": "mc21d_GatesofMtns" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-111.5517,45.8914] }, "properties":
+    { "title": "Lewis and Clark in Montana - Three Forks of the Missouri - Poster", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "Three Forks","filename":"/objects/thumbs/mc21e_threeforks_th.jpg", "format": "image/jpeg", "id": "mc21e_ThreeForks" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-112.46059,45.385136] }, "properties":
+    { "title": "Lewis and Clark in Montana - Beaverhead Rock - Poster", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "Beaverhead Rock","filename":"/objects/thumbs/mc21f_beaverheadrock_th.jpg", "format": "image/jpeg", "id": "mc21f_Beaverheadrock" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-107.9527,45.9913] }, "properties":
+    { "title": "Lewis and Clark in Montana - Pompey&#39;s Pillar - Poster", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "Pompey&#39;s Pillar","filename":"/objects/thumbs/mc21g_pompeyspillar_th.jpg", "format": "image/jpeg", "id": "mc21g_PompeysPillar" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-105.366913,46.813166] }, "properties":
+    { "title": "Lewis and Clark in Montana - Powder River and the Terry Badlands - Poster", 
+    "date": null,"creator": "Bob Bergantino; Ginette Abdo","subject": null,"location": "Powder River; Terry Badlands","filename":"/objects/thumbs/mc21h_terry_th.jpg", "format": "image/jpeg", "id": "mc21h_Terry" } }, 
+    { "type":"Feature", "geometry":{ "type":"Point", "coordinates":[-111.5517,45.8914] }, "properties":
+    { "title": "Three Forks of the Missouri, July 27, 1805", 
+    "date": null,"creator": null,"subject": "tools; navigation; finding latitude; octant; sextant","location": "Three Forks","filename":"/objects/thumbs/lc_header-threeforks_th.jpg", "format": "image/jpeg", "id": "lc_header-threeforks" } }
+    ]};
+
+    /* init map and set zoom */
+    if (window.location.hash) {
+        /* if url has a hash, it is split by comma into coordinates that set the view */
+        var hashfilter = decodeURIComponent(location.hash.substr(1));
+        var latitudeHash = hashfilter.split(',')[0]
+        var longitudeHash = hashfilter.split(',')[1]
+        var map = L.map('map').setView([latitudeHash,longitudeHash],16);
+    } else {
+        var map = L.map('map').setView([46.275627,-109.57249],6);
+    }
+
+    /* add map layer options */
+    var Esri_WorldStreetMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; Source: Esri, DeLorme, NAVTEQ, USGS, Intermap, iPC, NRCAN, Esri Japan, METI, Esri China (Hong Kong), Esri (Thailand), TomTom, 2012'
+    });
+    var Esri_NatGeoWorldMap = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_Map/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; National Geographic, Esri, DeLorme, NAVTEQ, UNEP-WCMC, USGS, NASA, ESA, METI, NRCAN, GEBCO, NOAA, iPC',
+        maxZoom: 16
+    });
+    var Esri_WorldImagery = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles &copy; Esri &mdash; Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+    });
+    /* add base map switcher */
+    var baseMaps = {
+        "Esri World StreetMap": Esri_WorldStreetMap,
+        "Esri National Geo": Esri_NatGeoWorldMap,
+        "Esri Imagery": Esri_WorldImagery
+    };
+    L.control.layers(baseMaps).addTo(map);
+    /* load base map */
+    Esri_WorldStreetMap.addTo(map);
+
+    
+    /* add search, https://github.com/naomap/leaflet-fusesearch */
+    var options = {
+        title: 'Search Map Items',
+        placeholder: 'Search map items...',
+        threshold: 0.35 
+    };
+    var searchCtrl = L.control.fuseSearch(options);
+    searchCtrl.addTo(map);
+    searchCtrl.indexFeatures(geodata.features, ["title","date","creator","subject","location"]);
+
+    
+    /* create cluster group */
+    var markers = L.markerClusterGroup({ maxClusterRadius: 25, singleMarkerMode: true , removeOutsideVisibleBounds: false });
+
+    /* object popup function */
+    function objectPopups(feature, layer) {
+        /* bind feature for search */
+        feature.layer = layer;
+        /* create pop up */
+        var itemHref = '/items/' + feature.properties.id + '.html';
+        if (feature.properties.youtube) {
+            var thumbSrc = 'https://img.youtube.com/vi/' + feature.properties.youtube + '/default.jpg';
+        } else if (feature.properties.format.includes("audio")) {
+            thumbSrc = '/assets/icons/file-play.svg';
+        } else if (feature.properties.format.includes("video")) {
+            thumbSrc = '/assets/icons/film.svg';
+        } else {
+            var thumbSrc = feature.properties.filename;
+        }
+        var popupTemplate = '<h4><a class="text-dark" href="' + itemHref + '">' +
+            feature.properties.title + '</a></h4><div class="text-center"><a class="btn btn-light" href="' + itemHref + 
+            '" ><img class="mapthumb" src="' + thumbSrc + '" alt="item thumbnail"></a></div><p class="mt-0">';
+        
+        if (feature.properties["date"]) {
+            popupTemplate += '<strong>Date:</strong> ' + feature.properties["date"] + '<br>'; 
+        }
+        
+        if (feature.properties["creator"]) {
+            popupTemplate += '<strong>Creator:</strong> ' + feature.properties["creator"] + '<br>'; 
+        }
+        
+        if (feature.properties["subject"]) {
+            popupTemplate += '<strong>Subjects:</strong> ' + feature.properties["subject"] + '<br>'; 
+        }
+        
+        if (feature.properties["location"]) {
+            popupTemplate += '<strong>Location:</strong> ' + feature.properties["location"] + '<br>'; 
+        }
+        
+        popupTemplate += '</p><div class="text-center"><a class="btn btn-light" href="' + itemHref + '" >View Item</a></div>';
+        layer.bindPopup(popupTemplate);
+    }
+    function objectMarkers(feature,latlng) {
+        var marker = L.marker(latlng);
+        markers.addLayer(marker);
+        return marker;
+    }
+
+    /* add objects from geoJson features */
+    L.geoJson(geodata, {
+        onEachFeature: objectPopups,
+        pointToLayer: objectMarkers
+    });
+    map.addLayer(markers);
+    
+    
+    /* uncluster when search is clicked */
+    document.querySelector('a.button').addEventListener("click", function() {
+        markers.disableClustering();
+    });
+    /* recluster when search is closed */
+    document.querySelector('a.close').addEventListener("click", function() {
+        markers.enableClustering();
+        document.querySelector('input.search-input').value = "";
+    });
+
+})();
+
+</script>
+
+
+    <script>
+    // When the user scrolls down from the top of the document, show the button
+    window.onscroll = function () {
+        if (document.body.scrollTop > 500 || document.documentElement.scrollTop > 500) {
+            document.getElementById("scroll-to-top").style.display = "block";
+        } else {
+            document.getElementById("scroll-to-top").style.display = "none";
+        }
+    }
+    // scroll to top function
+    function scrollToTop() {
+        $('html, body').animate({scrollTop: 0}, 750);
+    }
+</script>
+<button id="scroll-to-top" type="button" class="btn btn-link btn-lg" onclick="scrollToTop();" title="Back to Top" aria-label="Back to Top">
+    <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-chevron-double-up" fill="currentColor" xmlns="http://www.w3.org/2000/svg">  <path fill-rule="evenodd" d="M7.646 2.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 3.707 2.354 9.354a.5.5 0 1 1-.708-.708l6-6z"/>  <path fill-rule="evenodd" d="M7.646 6.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1-.708.708L8 7.707l-5.646 5.647a.5.5 0 0 1-.708-.708l6-6z"/></svg>
+</button>
+  </body>
+</html>

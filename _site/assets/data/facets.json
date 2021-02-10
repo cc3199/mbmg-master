@@ -1,0 +1,32 @@
+{
+    "facets": [ 
+        {
+            "field": "subject",
+            "terms": { 
+                "tools": 2,
+                "finding latitude": 2,
+                "navigation": 2,
+                "octant": 2,
+                "geology": 2,
+                "sextant": 1,
+                "journals": 1
+            }
+        },
+        {
+            "field": "creator",
+            "terms": { 
+                "ginette abdo": 22,
+                "bob bergantino": 22,
+                "american philosophical society": 1
+            }
+        },
+        {
+            "field": "format",
+            "terms": { 
+                "image/jpeg": 30,
+                "application/pdf": 11
+            }
+        }
+        
+    ]
+}

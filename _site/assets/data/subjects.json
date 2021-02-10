@@ -1,0 +1,9 @@
+{ "subjects": [
+    { "subject" : "tools", "count" : 2, "link" : "/browse.html#tools" },
+    { "subject" : "finding latitude", "count" : 2, "link" : "/browse.html#finding%20latitude" },
+    { "subject" : "navigation", "count" : 2, "link" : "/browse.html#navigation" },
+    { "subject" : "octant", "count" : 2, "link" : "/browse.html#octant" },
+    { "subject" : "geology", "count" : 2, "link" : "/browse.html#geology" },
+    { "subject" : "sextant", "count" : 1, "link" : "/browse.html#sextant" },
+    { "subject" : "journals", "count" : 1, "link" : "/browse.html#journals" }
+]}

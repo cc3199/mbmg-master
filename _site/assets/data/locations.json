@@ -1,0 +1,11 @@
+{ "locations": [
+    { "location" : "three forks", "count" : 3, "link" : "/browse.html#three%20forks" },
+    { "location" : "white cliffs", "count" : 2, "link" : "/browse.html#white%20cliffs" },
+    { "location" : "great falls", "count" : 2, "link" : "/browse.html#great%20falls" },
+    { "location" : "gates of the mountains", "count" : 2, "link" : "/browse.html#gates%20of%20the%20mountains" },
+    { "location" : "culbertson", "count" : 2, "link" : "/browse.html#culbertson" },
+    { "location" : "beaverhead rock", "count" : 2, "link" : "/browse.html#beaverhead%20rock" },
+    { "location" : "pompey's pillar", "count" : 2, "link" : "/browse.html#pompey's%20pillar" },
+    { "location" : "powder river", "count" : 2, "link" : "/browse.html#powder%20river" },
+    { "location" : "terry badlands", "count" : 2, "link" : "/browse.html#terry%20badlands" }
+]}
