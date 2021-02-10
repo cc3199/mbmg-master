@@ -504,7 +504,7 @@
         
         <oai:record> 
             <oai:header>
-                <oai:identifier>oai::/mc21j-DeterminingLatitude</oai:identifier> 
+                <oai:identifier>oai::/mc21j-determininglatitude</oai:identifier> 
                 <oai:datestamp>2021-02-10</oai:datestamp>
             </oai:header>
             <oai:metadata>
@@ -520,8 +520,8 @@
                     <dc:subject></dc:subject>
                     <dc:type>Image;StillImage</dc:type>
                     <dc:rights></dc:rights>
-                    <dc:identifier>mc21j-DeterminingLatitude</dc:identifier>
-                    <dc:identifier>/items/mc21j-DeterminingLatitude.html</dc:identifier>
+                    <dc:identifier>mc21j-determininglatitude</dc:identifier>
+                    <dc:identifier>/items/mc21j-determininglatitude.html</dc:identifier>
                 </oai_dc:dc>
             </oai:metadata>
         </oai:record>
