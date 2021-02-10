@@ -1,0 +1,24 @@
+{
+    "facets": [ 
+        {
+            "field": "subject",
+            "terms": { 
+            }
+        },
+        {
+            "field": "creator",
+            "terms": { 
+                "ginette abdo": 21,
+                "bob bergantino": 21
+            }
+        },
+        {
+            "field": "format",
+            "terms": { 
+                "application/pdf": 11,
+                "image/jpeg": 10
+            }
+        }
+        
+    ]
+}

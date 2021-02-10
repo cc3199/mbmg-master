@@ -1,0 +1,422 @@
+{ "objects": [{ 
+        "title": "Lewis and Clark in Montana - A Geologic Perspective",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/lewisandclark_th.jpg",
+        "object_download": "/objects/LewisAndClark.pdf",
+        "reference_url": "/items/LewisAndClark.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Navigation, Finding the Latitude",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/lewisandclark-navigation_th.jpg",
+        "object_download": "/objects/LewisAndClark-Navigation.pdf",
+        "reference_url": "/items/LewisAndClark-Navigation.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Expedition's Scientific Equipment",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/lewisandclark-equipment_th.jpg",
+        "object_download": "/objects/LewisAndClark-Equipment.pdf",
+        "reference_url": "/items/LewisAndClark-Equipment.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Culbertson Entering Montana",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "Culbertson",
+        "latitude": "48.146761",
+        "longitude": "-104.517996",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/lewisandclark-culbertson_th.jpg",
+        "object_download": "/objects/LewisAndClark-Culbertson.pdf",
+        "reference_url": "/items/LewisAndClark-Culbertson.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - The White Cliffs of the Missouri",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "White Cliffs",
+        "latitude": "48.040018",
+        "longitude": "-110.172981",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/lewisandclark-whitecliffs_th.jpg",
+        "object_download": "/objects/LewisAndClark-Whitecliffs.pdf",
+        "reference_url": "/items/LewisAndClark-Whitecliffs.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Great Falls of the Missouri",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "Great Falls",
+        "latitude": "47.540764",
+        "longitude": "-111.187566",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/lewisandclark-greatfalls_th.jpg",
+        "object_download": "/objects/LewisAndClark-Greatfalls.pdf",
+        "reference_url": "/items/LewisAndClark-Greatfalls.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Gates of the Mountains",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "Gates of the Mountains",
+        "latitude": "46.877271",
+        "longitude": "-111.91397",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/lewisandclark-gates_th.jpg",
+        "object_download": "/objects/LewisAndClark-Gates.pdf",
+        "reference_url": "/items/LewisAndClark-Gates.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Three Forks of the Missouri",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "Three Forks",
+        "latitude": "45.8914",
+        "longitude": "-111.5517",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/lewisandclark-threeforks_th.jpg",
+        "object_download": "/objects/LewisAndClark-Threeforks.pdf",
+        "reference_url": "/items/LewisAndClark-Threeforks.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Beaverhead Rock",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "Beaverhead Rock",
+        "latitude": "45.385136",
+        "longitude": "-112.46059",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/lewisandclark-beaverhead_th.jpg",
+        "object_download": "/objects/LewisAndClark-Beaverhead.pdf",
+        "reference_url": "/items/LewisAndClark-Beaverhead.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Pompey's Pillar",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "Pompey's Pillar",
+        "latitude": "45.9913",
+        "longitude": "-107.9527",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/lewisandclark-pompey_th.jpg",
+        "object_download": "/objects/LewisAndClark-Pompey",
+        "reference_url": "/items/LewisAndClark-Pompey.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Powder River and the Terry Badlands",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "Powder River",
+        "latitude": "46.813166",
+        "longitude": "-105.366913",
+        
+        
+        "type": "Image;StillImage",
+        "format": "application/pdf",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/lewisandclark-terry_th.jpg",
+        "object_download": "/objects/LewisAndClark-Terry.pdf",
+        "reference_url": "/items/LewisAndClark-Terry.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Culbertson Entering Montana - Poster",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "Culbertson",
+        "latitude": "48.146761",
+        "longitude": "-104.517996",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/mc21a_culbertson_th.jpg",
+        "object_download": "/objects/mc21a_Culbertson.jpg",
+        "reference_url": "/items/mc21a_Culbertson.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana: The White Cliffs of the Missouri - Poster",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "White Cliffs",
+        "latitude": "48.040018",
+        "longitude": "-110.172981",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/mc21b_whitecliffs_th.jpg",
+        "object_download": "/objects/mc21b_WhiteCliffs.jpg",
+        "reference_url": "/items/mc21b_WhiteCliffs.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Great Falls of the Missouri - Poster",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "Great Falls",
+        "latitude": "47.540764",
+        "longitude": "-111.187566",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/mc21c_greatfalls_th.jpg",
+        "object_download": "/objects/mc21c_GreatFalls.jpg",
+        "reference_url": "/items/mc21c_GreatFalls.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Gates of the Mountains - Poster",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "Gates of the Mountains",
+        "latitude": "46.877271",
+        "longitude": "-111.91397",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/mc21d_gatesofmtns_th.jpg",
+        "object_download": "/objects/mc21d_GatesofMtns.jpg",
+        "reference_url": "/items/mc21d_GatesofMtns.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Three Forks of the Missouri - Poster",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "Three Forks",
+        "latitude": "45.8914",
+        "longitude": "-111.5517",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/mc21e_threeforks_th.jpg",
+        "object_download": "/objects/mc21e_ThreeForks.jpg",
+        "reference_url": "/items/mc21e_ThreeForks.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Beaverhead Rock - Poster",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "Beaverhead Rock",
+        "latitude": "45.385136",
+        "longitude": "-112.46059",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/mc21f_beaverheadrock_th.jpg",
+        "object_download": "/objects/mc21f_Beaverheadrock.jpg",
+        "reference_url": "/items/mc21f_Beaverheadrock.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Pompey's Pillar - Poster",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "Pompey's Pillar",
+        "latitude": "45.9913",
+        "longitude": "-107.9527",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/mc21g_pompeyspillar_th.jpg",
+        "object_download": "/objects/mc21g_PompeysPillar.jpg",
+        "reference_url": "/items/mc21g_PompeysPillar.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Powder River and the Terry Badlands - Poster",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        "location": "Powder River",
+        "latitude": "46.813166",
+        "longitude": "-105.366913",
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/mc21h_terry_th.jpg",
+        "object_download": "/objects/mc21h_Terry.jpg",
+        "reference_url": "/items/mc21h_Terry.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana- Scientific Equipment of the Expedition - Poster",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/mc21i_equip_of_lc_th.jpg",
+        "object_download": "/objects/mc21i_equip_of_LC.jpg",
+        "reference_url": "/items/mc21i_equip_of_LC.html"
+    },
+    { 
+        "title": "Lewis and Clark in Montana - Finding the Latitude - Poster",
+        "creator": "Bob Bergantino; Ginette Abdo",
+        
+        
+        
+        
+        
+        
+        
+        
+        "type": "Image;StillImage",
+        "format": "image/jpeg",
+        "language": "english",
+        
+        
+        "object_thumb": "/objects/thumbs/mc21j-determininglatitude_th.jpg",
+        "object_download": "/objects/mc21j-DeterminingLatitude.jpg",
+        "reference_url": "/items/mc21j-DeterminingLatitude.html"
+    }
+    
+] }

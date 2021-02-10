@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Repository xmlns="http://www.openarchives.org/OAI/2.0/static-repository" 
+            xmlns:oai="http://www.openarchives.org/OAI/2.0/" 
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+            xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/static-repository 
+                                http://www.openarchives.org/OAI/2.0/static-repository.xsd">
+    <Identify>
+        <oai:repositoryName>Lewis and Clark in Montana</oai:repositoryName>
+        <oai:baseURL>http://gateway.institution.org/oai//oai.xml</oai:baseURL>
+        <oai:protocolVersion>2.0</oai:protocolVersion>
+        <oai:adminEmail>libstatic.uidaho@gmail.com</oai:adminEmail>
+        <oai:earliestDatestamp>2021-02-10</oai:earliestDatestamp>
+        <oai:deletedRecord>no</oai:deletedRecord>
+        <oai:granularity>YYYY-MM-DD</oai:granularity>
+    </Identify>
+    <ListMetadataFormats>
+        <oai:metadataFormat>
+            <oai:metadataPrefix>oai_dc</oai:metadataPrefix>
+            <oai:schema>http://www.openarchives.org/OAI/2.0/oai_dc.xsd</oai:schema>
+            <oai:metadataNamespace>http://www.openarchives.org/OAI/2.0/oai_dc/</oai:metadataNamespace>
+        </oai:metadataFormat>
+    </ListMetadataFormats>
+    <ListRecords metadataPrefix="oai_dc">
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/LewisAndClark</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - A Geologic Perspective</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>LewisAndClark</dc:identifier>
+                    <dc:identifier>/items/LewisAndClark.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/LewisAndClark-Navigation</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Navigation, Finding the Latitude</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>LewisAndClark-Navigation</dc:identifier>
+                    <dc:identifier>/items/LewisAndClark-Navigation.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/LewisAndClark-Equipment</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Expedition's Scientific Equipment</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>LewisAndClark-Equipment</dc:identifier>
+                    <dc:identifier>/items/LewisAndClark-Equipment.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/LewisAndClark-Culbertson</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Culbertson Entering Montana</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>LewisAndClark-Culbertson</dc:identifier>
+                    <dc:identifier>/items/LewisAndClark-Culbertson.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/LewisAndClark-Whitecliffs</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - The White Cliffs of the Missouri</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>LewisAndClark-Whitecliffs</dc:identifier>
+                    <dc:identifier>/items/LewisAndClark-Whitecliffs.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/LewisAndClark-Greatfalls</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Great Falls of the Missouri</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>LewisAndClark-Greatfalls</dc:identifier>
+                    <dc:identifier>/items/LewisAndClark-Greatfalls.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/LewisAndClark-Gates</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Gates of the Mountains</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>LewisAndClark-Gates</dc:identifier>
+                    <dc:identifier>/items/LewisAndClark-Gates.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/LewisAndClark-Threeforks</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Three Forks of the Missouri</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>LewisAndClark-Threeforks</dc:identifier>
+                    <dc:identifier>/items/LewisAndClark-Threeforks.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/LewisAndClark-Beaverhead</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Beaverhead Rock</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>LewisAndClark-Beaverhead</dc:identifier>
+                    <dc:identifier>/items/LewisAndClark-Beaverhead.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/LewisAndClark-Pompey</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Pompey's Pillar</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>LewisAndClark-Pompey</dc:identifier>
+                    <dc:identifier>/items/LewisAndClark-Pompey.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/LewisAndClark-Terry</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Powder River and the Terry Badlands</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>LewisAndClark-Terry</dc:identifier>
+                    <dc:identifier>/items/LewisAndClark-Terry.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/mc21a_Culbertson</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Culbertson Entering Montana - Poster</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>mc21a_Culbertson</dc:identifier>
+                    <dc:identifier>/items/mc21a_Culbertson.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/mc21b_WhiteCliffs</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana: The White Cliffs of the Missouri - Poster</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>mc21b_WhiteCliffs</dc:identifier>
+                    <dc:identifier>/items/mc21b_WhiteCliffs.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/mc21c_GreatFalls</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Great Falls of the Missouri - Poster</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>mc21c_GreatFalls</dc:identifier>
+                    <dc:identifier>/items/mc21c_GreatFalls.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/mc21d_GatesofMtns</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Gates of the Mountains - Poster</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>mc21d_GatesofMtns</dc:identifier>
+                    <dc:identifier>/items/mc21d_GatesofMtns.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/mc21e_ThreeForks</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Three Forks of the Missouri - Poster</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>mc21e_ThreeForks</dc:identifier>
+                    <dc:identifier>/items/mc21e_ThreeForks.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/mc21f_Beaverheadrock</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Beaverhead Rock - Poster</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>mc21f_Beaverheadrock</dc:identifier>
+                    <dc:identifier>/items/mc21f_Beaverheadrock.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/mc21g_PompeysPillar</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Pompey's Pillar - Poster</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>mc21g_PompeysPillar</dc:identifier>
+                    <dc:identifier>/items/mc21g_PompeysPillar.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/mc21h_Terry</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Powder River and the Terry Badlands - Poster</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>mc21h_Terry</dc:identifier>
+                    <dc:identifier>/items/mc21h_Terry.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/mc21i_equip_of_LC</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana- Scientific Equipment of the Expedition - Poster</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>mc21i_equip_of_LC</dc:identifier>
+                    <dc:identifier>/items/mc21i_equip_of_LC.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+        <oai:record> 
+            <oai:header>
+                <oai:identifier>oai::/mc21j-DeterminingLatitude</oai:identifier> 
+                <oai:datestamp>2021-02-10</oai:datestamp>
+            </oai:header>
+            <oai:metadata>
+                <oai_dc:dc 
+                xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" 
+                xmlns:dc="http://purl.org/dc/elements/1.1/" 
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+                xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+                                    http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                    <dc:title>Lewis and Clark in Montana - Finding the Latitude - Poster</dc:title>
+                    <dc:creator>Bob Bergantino; Ginette Abdo</dc:creator>
+                    <dc:date></dc:date><dc:description></dc:description>
+                    <dc:subject></dc:subject>
+                    <dc:type>Image;StillImage</dc:type>
+                    <dc:rights></dc:rights>
+                    <dc:identifier>mc21j-DeterminingLatitude</dc:identifier>
+                    <dc:identifier>/items/mc21j-DeterminingLatitude.html</dc:identifier>
+                </oai_dc:dc>
+            </oai:metadata>
+        </oai:record>
+        
+    </ListRecords>
+</Repository>

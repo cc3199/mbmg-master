@@ -1,0 +1,97 @@
+{
+    "profile": "data-package",
+    "name": "lewis-and-clark-in-montana-data",
+    "title": "Lewis and Clark in Montana Data",
+    "description": "Metadata and data derived from Lewis and Clark in Montana. The science of Geology was in its infancy at the time of the Lewis and Clark Expedition. Neither Lewis nor Clark had any training in geology, mining, or mineralogy. The geologic terms they used, however, reveal much about their understanding (and misunderstanding) of geology. Their journal entries name several rock types: chalk, flint, flintstone, freestone, granite, lava, limestone, marble, marl, pumicestone, sandstone, sandrock, slate, slate stone, and slate rock. Generally, the captains identified these rock types correctly – but not always. The captains were acquainted with names of many minerals, nevertheless most of the minerals and salts that they described were identified incorrectly.Little information has reached the public detailing the geography, geology, minerals or fossils that Lewis and Clark described in their journals. These pages depict and explain some of the more important geological observations and navigational aspects that the expedition recorded while within the present state of Montana.",
+    "keywords":  ["idaho","history","inland northwest"],
+    "homepage": "/",
+    "contributors": [
+        {
+            "title": "Montana Bureau of Mines and Geology",
+            "path": "https://www.mbmg.mtech.edu/",
+            "role": "author"
+        }
+    ],
+    "image": "/objects/mc21a_Culbertson.jpg",
+    "licenses": [
+        {
+            "name": "CC0-1.0",
+            "title": "CC0 1.0",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "resources": [
+         
+        {
+            "name": "facets-json",
+            "path": "facets.json",
+            "title": "Lewis and Clark in Montana Metadata Facets",
+            "description":"Unique values and counts of metadata facet fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        
+        {
+            "name": "locations-csv",
+            "path": "subjects.csv",
+            "title": "Lewis and Clark in Montana metadata location counts in csv",
+            "description": "Unique values and counts of metadata location fields.",
+            "format":"csv",
+            "profile":"tabular-data-resource",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "location",
+                        "type": "string",
+                        "format": "default"
+                    },
+                    {
+                        "name": "count",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "link",
+                        "type": "string",
+                        "format": "default"
+                    }
+                ]
+            }
+        },
+        {
+            "name": "locations-json",
+            "path": "locations.json",
+            "title": "Lewis and Clark in Montana metadata location counts in json",
+            "description":"Unique values and counts of metadata location fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "geodata-json",
+            "path": "geodata.json",
+            "title": "Lewis and Clark in Montana geographic metadata",
+            "description": "Geojson data containing all objects with lat-longs and associated descriptive metadata.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        {
+            "name": "metadata-csv",
+            "path": "metadata.csv",
+            "title": "Lewis and Clark in Montana full metadata in csv",
+            "description": "Complete metadata export for Lewis and Clark in Montana objects.",
+            "format":"csv",
+            "profile":"data-resource"
+        },
+        {
+            "name": "metadata-json",
+            "path": "metadata.json",
+            "title": "Lewis and Clark in Montana full metadata in json",
+            "description": "Complete metadata export for Lewis and Clark in Montana objects.",
+            "format":"json",
+            "profile":"data-resource"
+        }
+    ]
+}
