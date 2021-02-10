@@ -3,10 +3,10 @@
         {
             "field": "subject",
             "terms": { 
-                "tools": 2,
-                "finding latitude": 2,
-                "navigation": 2,
-                "octant": 2,
+                "tools": 8,
+                "finding latitude": 8,
+                "navigation": 8,
+                "octant": 3,
                 "geology": 2,
                 "sextant": 1,
                 "journals": 1
@@ -15,8 +15,8 @@
         {
             "field": "creator",
             "terms": { 
-                "ginette abdo": 22,
-                "bob bergantino": 22,
+                "ginette abdo": 28,
+                "bob bergantino": 28,
                 "american philosophical society": 1
             }
         },
