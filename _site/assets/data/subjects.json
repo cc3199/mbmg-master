@@ -1,9 +1,18 @@
 { "subjects": [
-    { "subject" : "tools", "count" : 8, "link" : "/browse.html#tools" },
-    { "subject" : "finding latitude", "count" : 8, "link" : "/browse.html#finding%20latitude" },
-    { "subject" : "navigation", "count" : 8, "link" : "/browse.html#navigation" },
-    { "subject" : "octant", "count" : 3, "link" : "/browse.html#octant" },
+    { "subject" : "navigation", "count" : 19, "link" : "/browse.html#navigation" },
+    { "subject" : "tools", "count" : 19, "link" : "/browse.html#tools" },
+    { "subject" : "finding latitude", "count" : 11, "link" : "/browse.html#finding%20latitude" },
+    { "subject" : "equipment", "count" : 9, "link" : "/browse.html#equipment" },
+    { "subject" : "octant", "count" : 6, "link" : "/browse.html#octant" },
+    { "subject" : "sextant", "count" : 2, "link" : "/browse.html#sextant" },
     { "subject" : "geology", "count" : 2, "link" : "/browse.html#geology" },
-    { "subject" : "sextant", "count" : 1, "link" : "/browse.html#sextant" },
-    { "subject" : "journals", "count" : 1, "link" : "/browse.html#journals" }
+    { "subject" : "two pole chain", "count" : 1, "link" : "/browse.html#two%20pole%20chain" },
+    { "subject" : "chronometer", "count" : 1, "link" : "/browse.html#chronometer" },
+    { "subject" : "artificial horizons", "count" : 1, "link" : "/browse.html#artificial%20horizons" },
+    { "subject" : "surveyors compass", "count" : 1, "link" : "/browse.html#surveyors%20compass" },
+    { "subject" : "circumferentor", "count" : 1, "link" : "/browse.html#circumferentor" },
+    { "subject" : "latitude and longitude", "count" : 1, "link" : "/browse.html#latitude%20and%20longitude" },
+    { "subject" : "spirit level", "count" : 1, "link" : "/browse.html#spirit%20level" },
+    { "subject" : "journals", "count" : 1, "link" : "/browse.html#journals" },
+    { "subject" : "pocket compass", "count" : 1, "link" : "/browse.html#pocket%20compass" }
 ]}

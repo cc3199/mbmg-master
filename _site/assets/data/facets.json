@@ -3,20 +3,34 @@
         {
             "field": "subject",
             "terms": { 
-                "tools": 8,
-                "finding latitude": 8,
-                "navigation": 8,
-                "octant": 3,
+                "navigation": 19,
+                "tools": 19,
+                "finding latitude": 11,
+                "equipment": 9,
+                "octant": 6,
+                "sextant": 2,
                 "geology": 2,
-                "sextant": 1,
-                "journals": 1
+                "two pole chain": 1,
+                "chronometer": 1,
+                "artificial horizons": 1,
+                "surveyors compass": 1,
+                "circumferentor": 1,
+                "latitude and longitude": 1,
+                "spirit level": 1,
+                "journals": 1,
+                "pocket compass": 1
             }
         },
         {
             "field": "creator",
             "terms": { 
+                "bob bergantino": 30,
                 "ginette abdo": 28,
-                "bob bergantino": 28,
+                "smithsonian institute": 3,
+                "land and sea collection": 1,
+                "the theory and practice of surveying": 1,
+                "pieces of time": 1,
+                "the nautical almanac and astronomical ephemeris, 1805": 1,
                 "american philosophical society": 1
             }
         },
