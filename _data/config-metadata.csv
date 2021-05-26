@@ -1,6 +1,8 @@
 field,display_name,browse_link,dc_map,schema_map
 title,Title,,DCTERMS.title,headline
-creator,Creator,,DCTERMS.creator,creator
+api number,API Number
+nwgs lithology log number,NWGS Lithology Log Number
+log no,Log Number
 date,Date Created,,DCTERMS.created,dateCreated
 description,Description,,DCTERMS.description,description
 subject,Company,,DCTERMS.subject,keywords
