@@ -1,6 +1,6 @@
 field,display_name,browse_link,dc_map,schema_map
-title,Title,,DCTERMS.title,headline
 api number,API Number
+title,Well Name,,DCTERMS.title,headline
 nwgs lithology log number,NWGS Lithology Log Number
 log no,Log Number
 date,Date Created,,DCTERMS.created,dateCreated
