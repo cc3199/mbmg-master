@@ -23,7 +23,9 @@ title: NWGS Thin Section Logs
 tagline:
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Description here"
+description: "During the 1950’s and 1960’s, the Northwest Geologic Service (NWGS) described well cuttings and core samples from over 2,500 oil and gas exploration wells stretching from the eastern Dakotas to western Montana. After donation to the Montana Geological Society (MGS), members of the MGS initiated a project to preserve the rapidly deteriorating NWGS paper sample logs and make the collection more readily available to the geologic community (www.mtgeo.org).
+
+A supplemental set of NWGS logs with more detailed sample descriptions and thin section photomicrographs was recently discovered in the MGS data repository and donated to the MBMG for long-term preservation. This ancillary set of logs compliments the original NWGS sample log collection, providing additional detail for selected intervals for 102 of those wells. Contact the MBMG Data Preservation office to access this collection."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: montana;thin sections;nwgs;logs
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name

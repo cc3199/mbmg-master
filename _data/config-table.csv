@@ -1,5 +1,6 @@
 field,display_name
-title,Title
+api number,API Number
+title,Well Name
 subject,Company
 county,County
 geologic section,Geologic Section
