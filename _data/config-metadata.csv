@@ -3,8 +3,11 @@ title,Title,,DCTERMS.title,headline
 creator,Creator,,DCTERMS.creator,creator
 date,Date Created,,DCTERMS.created,dateCreated
 description,Description,,DCTERMS.description,description
-subject,Subjects,true,DCTERMS.subject,keywords
-location,Location,,,contentLocation
+subject,Mine Name,true,DCTERMS.subject,keywords
+location,Book Number,,,contentLocation
+volume,Volume
+sill number, Sill Number
+levels and floors, Level and Floor
 latitude,Latitude
 longitude,Longitude
 source,Source
